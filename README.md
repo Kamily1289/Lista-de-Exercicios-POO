@@ -12,8 +12,10 @@ subclasse: classe filha:
 superclasse é a classe responsável por moldar as subclasses. 
 
 4. Como acessar os atributos de uma classe e da sua superclasse? 
+ Pode chama a palavra-chave ou para chamar o coonstrutor com get/set. 
 
 5. É possível herdar apenas alguns atributos ou métodos de uma superclasse quando uma subclasse a estende? Justifique. 
+Não as subclasses herdam tudo da superclasse, pois as superclasse serve de molde para as subclasses dessa forma herdando tudo. 
 
 6. Cite particularidades das classes abstratas. 
 
